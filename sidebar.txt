@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[trn:home|Door43 (trn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-trn|d43-trn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-trn/archive/master.zip|d43-trn.zip]]
+
+**Recent Changes**
+{{changes>ns = trn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/trn|Ethnologue data]]
+
